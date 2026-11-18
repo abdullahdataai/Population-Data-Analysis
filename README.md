@@ -1,19 +1,30 @@
-# Population-Data-Analysis
+# Population Data Analysis | Kazakhstan
 
-Data analysis project using Python to explore, clean, and visualize population datasets from a U.S. state.
+> Exploratory population analysis in Python using a Jupyter notebook with Kazakhstan district and city records.
 
-## Technologies Used
+**Focus:** Data Cleaning · Exploratory Analysis · Python · Population Data
 
-* Python
-* Pandas
-* Matplotlib
-* NumPy
-* Jupyter Notebook
+## Overview
+The notebook contains population-related fields, including district names, total population, and male/female population counts. The underlying data includes Kazakhstan localities such as Ekibastuz city. The existing notebook filename refers to Titanic, but its visible dataset fields are population-related.
 
-## Project Goals
+## Tools
+Python · Pandas · NumPy · Matplotlib · Jupyter Notebook
 
-* Analyze population trends
-* Clean and organize datasets
-* Generate insights using data visualization
-* Practice exploratory data analysis techniques
+## Explore the project
+- [Open the notebook](Titanic-Data-Analysis.ipynb)
+- Review the dataset preparation, exploration, and visualizations in the notebook.
 
+## Reproducibility notes
+- The notebook filename is misleading and should be renamed after checking any references.
+- The original data source, geographic coverage, and observation year need to be documented before drawing general conclusions.
+- Notebook outputs may require the original dataset and matching Python dependencies.
+
+## Next improvements
+- Rename the notebook to `kazakhstan_population_analysis.ipynb`.
+- Document the data source and observation period.
+- Add verified charts and findings.
+
+## Author
+[abdullahdataai](https://github.com/abdullahdataai)
+
+*This README corrects the earlier unverified claim that the data covers a U.S. state.*
